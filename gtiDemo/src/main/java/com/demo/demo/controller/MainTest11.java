@@ -1,3 +1,4 @@
-public static void main1(String[]args){
+public static void main2(String[]args){
 
         }
+
