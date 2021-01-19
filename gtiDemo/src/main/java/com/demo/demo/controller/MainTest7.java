@@ -24,7 +24,7 @@ public class MainTest7 {
 //        String string = "2019/01/01";
 //        SimpleDateFormat df = new SimpleDateFormat("yyyy/MM/dd");
 //        Date date = df.parse(string);
-//        System.out.println(date);
+
 
         Calendar instance = Calendar.getInstance();
         instance.set(2019,Calendar.DECEMBER,7);
