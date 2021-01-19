@@ -24,9 +24,6 @@ public class MainTest10 {
         System.out.println(list);
 
 
-//        Set<Integer> years = getYears("2018/01", "2018/12");
-//        System.out.println(years);
-
     }
 
 
