@@ -33,8 +33,6 @@ public class MainTest2 {
         }
         System.out.println(result);
 
-
-
     }
 
 
